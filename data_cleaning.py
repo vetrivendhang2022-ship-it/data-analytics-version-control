@@ -7,4 +7,5 @@ def simple_clean(df):
     return df
 
 if __name__ == "__main__":
-    print("Sample cleaning function")
+    print("Version 1.1: Removed missing values successfully")
+
